@@ -151,7 +151,7 @@
 <body>
     <div class="letter-close">
         <div class="envelope" onclick="open_letter()"></div>
-        <h2 class="envelope-msg">OPEN!</h2>
+        <h2 class="envelope-msg">OPEN</h2>
     </div>
 
     <div class="letter-open">
